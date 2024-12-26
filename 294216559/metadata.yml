@@ -1,0 +1,18 @@
+---
+:id: 294216559
+:submitters:
+- :name: Caroline Begg
+  :email: cbegg@seas.upenn.edu
+- :name: Liam Kiernan
+  :email: lkiernan22@centralcatholichs.com
+- :name: Amanda Abbe
+  :email: aabbe26@sas.upenn.edu
+- :name: Martina Bulgarelli
+  :email: martina.bulgarelli@liceosteam.it
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-12-03 21:08:19.676755000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-12-03 13:08:19.676755000 Z
+:status: processed
+:score: 85.0
